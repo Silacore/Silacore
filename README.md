@@ -51,10 +51,10 @@ Modern ve güçlü teknolojilerle çalışmayı seviyorum. İşte favori silahla
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Silacore&show_icons=true&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=38bdf8&text_color=94a3b8" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Silacore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4&icon_color=38bdf8" height="180" alt="stats graph" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silacore&layout=compact&hide_border=true&bg_color=0f172a&title_color=06b6d4&text_color=94a3b8" height="180" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silacore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=06b6d4" height="180" alt="languages graph" />
   </a>
 </div>
 
